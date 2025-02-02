@@ -28,9 +28,10 @@ I'm a passionate **Ethereum Full Stack Developer** with a strong interest in blo
 
 - **[Project Name 1](https://github.com/ShakibKamran/project1)**: Brief description of the project.  
 - **[Project Name 2](https://github.com/ShakibKamran/project2)**: Brief description of the project.  
-- **[Project Name 3](https://github.com/ShakibKamran/project3)**: Brief description of the project.  
+- **[Project Name 3](https://github.com/ShakibKamran/project3)**: Brief description of the project.
+- 
 
-📜 Blog & Articles
+## 📜 Blog & Articles
 
 - Understanding Ethereum Gas Fees
 
