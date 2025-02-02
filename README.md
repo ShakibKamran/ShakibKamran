@@ -30,6 +30,15 @@ I'm a passionate **Ethereum Full Stack Developer** with a strong interest in blo
 - **[Project Name 2](https://github.com/ShakibKamran/project2)**: Brief description of the project.  
 - **[Project Name 3](https://github.com/ShakibKamran/project3)**: Brief description of the project.  
 
+📜 Blog & Articles
+
+- Understanding Ethereum Gas Fees
+
+- Building Scalable dApps
+
+- Solidity Security Best Practices
+
+
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
